@@ -1,10 +1,14 @@
-# development
+# simple auth
 
-A new Flutter project.
+a flutter project conists of empty app with homepage which says welcome username ,
+before it lets in user has to sign in or signup which is authenticated by firebase authication 
+the user name and email such user data is stored in cloud database service provided by google cloude firestore
+
+ 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+starting with the get started page where user will have  
 
 A few resources to get you started if this is your first Flutter project:
 
