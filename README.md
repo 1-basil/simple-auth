@@ -10,6 +10,22 @@ also login page comes with fogot password option
 the validation of each text field with regex pattern 
 during each await moment the is a loading screen and is come across any error there is error screen.
 
+
+## file and dependencies 
+check out pubspec.yaml in repo for linking all the image assests and fonts 
+also for plugins visit dart plugin offical site refer version from ymal file
+and images and fonts are in assets and fonts folder
+
+ridirections are in screens folder includes login,signup,errorpage etc,
+homepage in home file,
+shared has loading screen,
+database service file and authentication service file in service folder,
+user data model which are taken instance later are in models folder,
+
+also check out app level , root level build gradle 
+
+
+
  
 
 ## get started
@@ -21,6 +37,12 @@ and for firebase and firestore https://youtube.com/playlist?list=PL4cUxeGkcC9j--
 
 for font files-
 https://fonts.google.com/
+
+auth and DBservice -
+https://firebase.google.com/
+
+images- 
+https://www.pinterest.com/
 
 A few resources to get you started if this is your first Flutter project:
 
