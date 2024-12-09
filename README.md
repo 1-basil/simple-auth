@@ -8,11 +8,11 @@ starting of the app for a new user it starts with get started page where user is
 then once user is filled with form and submits it redirects to welcome page 
 also login page comes with fogot password option 
 the validation of each text field with regex pattern 
-during each await moment the is a loading screen and is come across any error there is error screen 
+during each await moment the is a loading screen and is come across any error there is error screen.
 
  
 
-#get started
+## get started
 
 
 ref youtube -
