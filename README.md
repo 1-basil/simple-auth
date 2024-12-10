@@ -11,7 +11,7 @@ the validation of each text field with regex pattern
 during each await moment the is a loading screen and is come across any error there is error screen.
 
 ## get apk 
-go to folder bulid/app/outputs/flutter-apk/  {apk-release.apk} is you apk file.
+link- https://file.io/t4Wj2ghWQkkM
 
 
 ## file and dependencies 
