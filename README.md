@@ -10,6 +10,9 @@ also login page comes with fogot password option
 the validation of each text field with regex pattern 
 during each await moment the is a loading screen and is come across any error there is error screen.
 
+## get apk 
+go to folder bulid/app/outputs/flutter-apk/  {apk-release.apk} is you apk file.
+
 
 ## file and dependencies 
 check out pubspec.yaml in repo for linking all the image assests and fonts 
